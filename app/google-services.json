@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382243267105",
+    "project_id": "mobile-cw-firebase-2228a",
+    "storage_bucket": "mobile-cw-firebase-2228a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382243267105:android:1b56558c79a66b67503960",
+        "android_client_info": {
+          "package_name": "com.example.housify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJCYmW9HPx7YcrwgiXWp1HxEBatAk8VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
